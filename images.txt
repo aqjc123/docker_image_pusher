@@ -3,4 +3,4 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:7.0
-jenkins/jenkins:2.461
+jenkins/jenkins:2.452.1-lts
