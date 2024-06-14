@@ -4,3 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:7.0
 jenkins/jenkins:2.426.1-lts
+redis
